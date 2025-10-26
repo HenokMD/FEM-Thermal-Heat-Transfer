@@ -52,13 +52,13 @@ The simulation offers several parameters that can be modified to explore differe
 ## 📊 Results Visualization
 
 ### Figure 1. Temperature Distribution without heat source
-![Temperature Distribution](https://github.com/HenokMD/FEM-Thermal-Heat-Transfer/blob/main/Temperature%20distribution%20in%20the%20square%20area%2C%20without%20a%20heat%20source.png)
+![Temperature Distribution](figures/Temperature%20distribution%20in%20the%20square%20area%2C%20without%20a%20heat%20source.png)
 
 ### Figure 2. Temperature Distribution with a heat source
-![Temperature Distribution](https://github.com/HenokMD/FEM-Thermal-Heat-Transfer/blob/main/Temperature%20distribution%20in%20the%20square%20area%20with%20a%20heat%20source.png)
+![Temperature Distribution](figures/Temperature%20distribution%20in%20the%20square%20area%20with%20a%20heat%20source.png)
 
 ### Figure 3. Thermal Analysis of Square Area
-![Thermal Analysis](https://github.com/HenokMD/FEM-Thermal-Heat-Transfer/blob/main/Thermal%20Analysis%20of%20Square%20Area.png)
+![Thermal Analysis](figures/Thermal%20Analysis%20of%20Square%20Area.png)
 
 
 ---
